@@ -1,4 +1,4 @@
 [build]
-  command = "npx eleventy"
+  command = "npm run build"
   functions = "functions"
   publish = "_site"
