@@ -1,4 +1,4 @@
 [build]
-  publish = "_site"
-  command = "eleventy"
+  command = "npx eleventy"
   functions = "functions"
+  publish = "_site"
